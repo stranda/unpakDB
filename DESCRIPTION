@@ -1,7 +1,7 @@
 Package: unpakDB
 Type: Package
 Title: Database operations for unpak DB
-Version: 1.0
+Version: 1.0.1
 Date: 2013-03-25
 Depends: RMySQL,reshape
 Author: AE Strand
